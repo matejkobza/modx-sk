@@ -1,0 +1,1 @@
+# Slovak translation of modx
